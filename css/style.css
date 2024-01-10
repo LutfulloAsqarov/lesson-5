@@ -1,0 +1,192 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 47px;
+    background-color: #b36050;
+}
+
+header p {
+    color: #f1d3b9;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+    padding: 10px;
+}
+
+.nav {
+    width: 100%;
+}
+
+.mask {
+    margin-top: 77.28px;
+}
+.mask-img {
+    width: 100%;
+    height: 435px;
+}
+
+.mask-text {
+    background-color: #a9ae8d;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.mask-text p {
+    color: #f6f4ec;
+    font-size: 18px;
+    font-style: normal;
+    text-transform: uppercase;
+    font-weight: 400;
+    line-height: 28px;
+    padding-top: 40px;
+}
+
+.mask-text h1 {
+    color: #f6f4ec;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 64px;
+    padding: 10px 0px 20px;
+}
+
+.mask-btn {
+    width: 128px;
+    height: 48px;
+    background-color: #b45f4d;
+    color: #fff;
+    border: none;
+}
+
+.brands {
+    background-color: #f6f4ec;
+}
+
+.cards {
+    text-align: center;
+}
+
+.card {
+    width: 340px;
+    height: 650px;
+    display: inline-block;
+    text-align: left;
+    margin: 0px 50px;
+}
+
+.card-img {
+    height: 510px;
+}
+
+.card-title {
+    color: #b45f4d;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    text-transform: uppercase;
+    padding: 15px 0px;
+}
+
+.card-price {
+    color: #b45f4d;
+}
+
+.brands-title {
+    color: #b45f4d;
+    text-align: center;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 39.2px;
+    text-transform: capitalize;
+    padding: 40px 0px;
+}
+
+.set {
+    text-align: center;
+}
+
+.set img {
+    margin: 30px 0px;
+    width: 1200px;
+}
+
+.set-text {
+    height: 92px;
+    background: #df9b7a;
+}
+
+.about {
+    background-color: #f1d3b9;
+    height: 914px;
+    display: flex;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 116px 120px;
+}
+
+.about-left {
+    display: inline-block;
+    width: 500px;
+    height: 750px;
+}
+
+.about-right {
+    display: inline-block;
+    width: 500px;
+    height: 750px;
+    margin-bottom: 100px;
+    background-color: #fff;
+    margin-left: 246px;
+}
+
+.about-right .about-title {
+    padding: 130px 0px 50px;
+}
+
+.about-right .about-text {
+    text-align: left;
+    padding: 42px 42px;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #b45f4d;
+}
+
+.about-right .about-link {
+    padding: 100px 0px 50px;
+    padding: 41px 379px 134px 41px;
+    text-decoration: none;
+    line-height: 25.6px;
+    color: #b45f4d;
+    font-size: 16px;
+}
+
+.follow {
+    width: 1440px;
+    padding: 0px 120px 39.594px 120px;
+    flex-direction: column;
+    align-items: center;
+    gap: 43.156px;
+    background-color: white;
+    display: flex;
+}
+
+.follow-abz {
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 23px;
+    padding-top: 50px;
+}
+
+.follow-img {
+    width: 191.667px;
+    height: 130px;
+}
